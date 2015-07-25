@@ -63,8 +63,21 @@ Notes:
 Values of activity_name:
 * WALKING
 * WALKING_UPSTAIRS
-*	WALKING_DOWNSTAIRS
+* WALKING_DOWNSTAIRS
 * SITTING
 * STANDING
 * LAYING
+
+Note the possible confusion given the term "LAYING." If used in the intransitive sense one may presume that it means that I am
+lying (not laying) down. See here for one grammar reference:
+* http://www.quickanddirtytips.com/education/grammar/lay-versus-lie
+
+If the labels in this data set are to be interpreted literally, according to correct English grammar, then the subjects were not
+lying around or lying down. Rather, they were
+were laying someone or something. Given their age it seems likely that they were "laying someone," that is to say, sexing.
+
+Obviously in this day of the surveillance state and "ubiquitous" wearable, totable, and/or on-body monitors, it would
+be enormously interesting to develop a technology that detects, reports, and records when a person was having sex.
+Apparently this data set does just that.
+
 
