@@ -68,16 +68,18 @@ Values of activity_name:
 * STANDING
 * LAYING
 
-Note the possible confusion given the term "LAYING." If used in the intransitive sense one may presume that it means that I am
-lying (not laying) down. See here for one grammar reference:
+Note the term "LAYING." The verb "lay" requires a direct object (i.e. it is transitive).
+Therefore it follows, gramatically and logically, that these subjects were not lying down or lying around. Rather,
+if the labels in this data set are interpreted literally in accordance with correct English grammar, the subjects
+were were laying someone or something. Given their age it seems likely that they were "laying someone," that is to say, sexing.
+
+See here for one grammar reference:
 * http://www.quickanddirtytips.com/education/grammar/lay-versus-lie
 
-If the labels in this data set are to be interpreted literally, according to correct English grammar, then the subjects were not
-lying around or lying down. Rather, they were
-were laying someone or something. Given their age it seems likely that they were "laying someone," that is to say, sexing.
+Obviously in this day of the surveillance state and "ubiquitous" wearable, clutchable, "never mind," and/or on-body monitors,
+using a technology in this way, to detect, report, and record when a person is having sex, would be very interesting,
+and potentially valuable and powerful.
 
-Obviously in this day of the surveillance state and "ubiquitous" wearable, totable, and/or on-body monitors, it would
-be enormously interesting to develop a technology that detects, reports, and records when a person was having sex.
 Apparently this data set does just that.
 
 
