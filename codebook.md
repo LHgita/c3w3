@@ -13,10 +13,12 @@ a group of 30 volunteers within an age bracket of 19-48 years. Each person perfo
 * SITTING
 * STANDING
 * LAYING
+
 while wearing a smartphone (Samsung Galaxy S II) on the waist.
 Which, using its using its embedded accelerometer and gyroscope, captured the following data:
 * 3-axial linear acceleration
 * 3-axial angular velocity
+
 at a constant rate of 50 measurements/second.
 
 The accelerometer and gyroscope 3-axial raw signals tAcc-XYZ and tGyro-XYZ were used to estimate variables
@@ -55,7 +57,10 @@ Notes:
 * std():	Standard deviation of multiple measurements of the original variables. Type: Real
 * activity_id: Identifier of the subject's activity. Type: Integer. Values: 1 through 6.
 * subject_id :	Identifier of the subject. Type: Integer. Values: 1 through 30.
-* activity_name: Descriptive name of each subject's activity. Type: Factor. Values:
+* activity_name: Descriptive name of each subject's activity. Type: Factor.
+
+
+Values of activity_name:
 ** WALKING
 ** WALKING_UPSTAIRS
 **	WALKING_DOWNSTAIRS
